@@ -32,7 +32,7 @@ $ git push -u origin <branch-name>
 
 ### Reach out
 
-[@shivanishimpi:](https://github.com/AbinayaSri76)
+[@AbinayaSri76:](https://github.com/AbinayaSri76)
 [![Twitter][1.2]][1]
 [![LinkedIn][2.2]][2]
 
